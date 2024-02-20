@@ -62,7 +62,7 @@
     "@patternfly/react-icons": "^3.7.5",
     "@patternfly/react-tokens": "^2.3.3",
     "ansi-to-html": "^0.6.11",
-    "axios": "^0.18.0",
+    "axios": "^0.28.0",
     "codemirror": "^5.47.0",
     "formik": "^1.5.1",
     "has-ansi": "^3.0.0",
