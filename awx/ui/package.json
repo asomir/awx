@@ -77,7 +77,7 @@
     "karma-jasmine": "^1.1.0",
     "karma-junit-reporter": "^1.2.0",
     "karma-sourcemap-loader": "^0.3.7",
-    "karma-webpack": "^2.0.4",
+    "karma-webpack": "^5.0.1",
     "less": "^2.7.2",
     "less-loader": "^4.0.5",
     "less-plugin-autoprefix": "^1.4.2",
@@ -92,7 +92,7 @@
     "uglifyjs-webpack-plugin": "^0.4.6",
     "uuid": "^3.1.0",
     "webpack": "^3.0.0",
-    "webpack-dev-server": "^2.7.1",
+    "webpack-dev-server": "^5.0.4",
     "webpack-merge": "^4.1.0"
   },
   "dependencies": {
